@@ -1,0 +1,1 @@
+"""Infraestrutura local em memória."""
